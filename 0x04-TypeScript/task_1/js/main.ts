@@ -6,11 +6,10 @@ interface Teacher {
   location: string;
   [key: string]: any;
 
-// Example usage:
 const teacher3: Teacher = {
   firstName: "Last",
   fullTimeEmployee: false,
-  lastName: "Mutara",
+  lastName: "Sibanyoni",
   location: "London",
   contract: false,
 };
